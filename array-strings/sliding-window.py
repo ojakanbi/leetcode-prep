@@ -17,7 +17,7 @@ Related LeetCode problems:
 The function is a simple implementation that prints all subarrays of size 'length' from the input list 'arr'.
 """
 
-def subArray(arr, lenght):
+def subArray(arr, length):
     storage = []
     
     # Loop to extract subarrays from valid starting points
